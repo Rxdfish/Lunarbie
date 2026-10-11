@@ -1,6 +1,6 @@
 # Lunarbie
 
-![Lunarbie](Images/Lunarbie_PCB_bare.PNG)
+![Lunarbie](25%Images/Lunarbie_PCB_bare.PNG)
 The nighty companion of Starbie! Lunarbie is a tiny keychain sized board that acts like a little pet for your everyday carry.It is the counterpart to Starbie a starter project of the Hackclub Half-Life program
 
 Heavily inspired by this Repo: [have a look](https://github.com/SharKingStudios/Starbie/tree/main)
