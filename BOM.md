@@ -19,9 +19,8 @@
 | [MX Switches](https://www.digikey.de/en/products/detail/cherry-americas-llc/MX2A-11NW/21738444) | Switches | 2 | $1.75 | $3.50 | [cherry-americas-llc](https://www.digikey.de/en/products/detail/cherry-americas-llc/MX2A-11NW/21738444) |
 | [Keycaps](https://www.digikey.de/en/products/detail/adafruit-industries-llc/5039/14313478) | Keycaps | 2 | $4.00 | $8.00 | [adafruit-industries-llc](https://www.digikey.de/en/products/detail/adafruit-industries-llc/5039/14313478) |
 | [10k Resistor](https://www.digikey.de/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265) | Resistor | 1 | $0.10 | $0.10 | [Stackpole Electronics Inc](https://www.digikey.de/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265) |
-| [PCB](https://www.jlcpcb.com/) | PCB manufacturing | 1 | $10.00 | $10.00 | [JLPCB](https://www.jlcpcb.com/) |
-| **Parts subtotal** | — | — | — | **$37.60** | — |
+| **Parts subtotal** | — | — | — | **$27.60** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$37.60** | — |
+| **Total** | — | — | — | **$27.60** | — |
 
-**$7.60 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$2.40 left of the tier's funding.
