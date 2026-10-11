@@ -24,4 +24,3 @@
 | **Total** | — | — | — | **$27.60** | — |
 
 $2.40 left of the tier's funding.
-$10 for the PCB manufacturing were cut from the list.
