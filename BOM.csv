@@ -1,7 +1,7 @@
-"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
-1;"J1";"Display_128x64_096_I2C";1;"Conn_01x04";;;
-2;"J2";"PinHeader_1x08_P2.54mm_Vertical";1;"Conn_01x08";;;
-3;"R1";"R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal";1;"10k";;;
-4;"SW1, SW2";"SW_Cherry_MX_1.00u_PCB";2;"SW_Push";;;
-5;"U1";"XIAO-ESP32-C3-SMD";1;"XIAO-ESP32-C3-SMD";;;
-6;"U2";"Aosong_DHT11_5.5x12.0_P2.54mm";1;"DHT11";;;
+"Id","Designator","Footprint","Quantity","Designation","Supplier and ref",
+1,"J1","Display_128x64_096_I2C",1,"Conn_01x04",,,
+2,"J2","PinHeader_1x08_P2.54mm_Vertical",1,"Conn_01x08",,,
+3,"R1","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",1,"10k",,,
+4,"SW1, SW2","SW_Cherry_MX_1.00u_PCB",2,"SW_Push",,,
+5,"U1","XIAO-ESP32-C3-SMD",1,"XIAO-ESP32-C3-SMD",,,
+6,"U2","Aosong_DHT11_5.5x12.0_P2.54mm",1,"DHT11",,,
