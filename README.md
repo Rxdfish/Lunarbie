@@ -55,6 +55,7 @@ The BOM can be viewed in the [BOM.csv](BOM.csv) file
 
 embedded too: 
 Lunarbie – bill of materials
+!! The PCB manufacturing was excluded from the list unfortunately because of over budgeting :(
 				
 | Part | Qty | Unit-Price | total | Shop | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -67,3 +68,5 @@ Lunarbie – bill of materials
 | 10k Resistor | 1 | $2.05 | $2.05 | AliExpress | [Link](https://www.aliexpress.com/item/1005004698981340.html) |
 | (PCB manufacturing) | 5 | $4 | $4 | JLPCB | [Link](https://cart.jlcpcb.com/de/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
 | **Total** | **$28.93** | | Shipping: free | (Shipping for PCB: $8.78) | |
+
+
