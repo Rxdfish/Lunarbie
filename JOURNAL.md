@@ -4,7 +4,7 @@
 <!-- Generated: 2026-10-11T23:31:48.448Z -->
 
 > [!NOTE]
-> This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
+> This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmuvmlp9500ix01o9fgpfw9it). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
 > The nighty companion of Starbie! Lunarbie is a tiny keychain sized board that acts like a little pet for your everyday carry.
 

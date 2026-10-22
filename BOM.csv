@@ -1,7 +1,9 @@
-"Id","Designator","Footprint","Quantity","Designation","Supplier and ref",
-1,"J1","Display_128x64_096_I2C",1,"Conn_01x04",,,
-2,"J2","PinHeader_1x08_P2.54mm_Vertical",1,"Conn_01x08",,,
-3,"R1","R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",1,"10k",,,
-4,"SW1, SW2","SW_Cherry_MX_1.00u_PCB",2,"SW_Push",,,
-5,"U1","XIAO-ESP32-C3-SMD",1,"XIAO-ESP32-C3-SMD",,,
-6,"U2","Aosong_DHT11_5.5x12.0_P2.54mm",1,"DHT11",,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32 C3,1,seeedstudio,$11.33,$11.33,https://www.digikey.de/en/products/detail/seeed-technology-co-ltd/113991054/16652880
+0.96 OLED,1,CANADUINO,$2.57,$2.57,https://www.digikey.de/en/products/detail/universal-solder-electronics-ltd/26377/16822115
+MPU6050,1,amazon,$3.61,$3.61,https://www.amazon.com/cizihuu-1pcs-GY-521-MPU-6050Module/dp/B09LVDTSDL/ref=sr_1_7?sr=8-7
+DHT11,1,CANADUINO,$1.49,$1.49,https://www.digikey.de/en/products/detail/universal-solder-electronics-ltd/26085/16822119
+MX Switches,1,cherry-americas-llc,$4.26,$4.26,https://www.digikey.de/en/products/detail/cherry-americas-llc/MX2A-11NW/21738444
+Keycaps,2,adafruit-industries-llc,$1.80,$3.60,https://www.digikey.de/en/products/detail/adafruit-industries-llc/5039/14313478
+10k Resistor,1,Stackpole Electronics Inc,$2.05,$2.05,https://www.digikey.de/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265
+Estimated total shipping,1,,,$0.00,
