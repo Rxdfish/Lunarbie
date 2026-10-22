@@ -56,13 +56,14 @@ The BOM can be viewed in the [BOM.csv](BOM.csv) file
 embedded too: 
 Lunarbie – bill of materials
 				
-| Part | Qty | Price | Shop | Link |
-| --- | --- | --- | --- | --- |
-| XIAO ESP32 C3 | 1 | $11.33 | AliExpress | [Link](https://www.aliexpress.com/item/1005007084388623.html) |
-| 0.96" OLED | 1 | $2.57 | AliExpress | [Link](https://www.aliexpress.com/item/1005009170035050.html) |
-| MPU6050 | 1 | $3.61 | AliExpress | [Link](https://www.aliexpress.com/item/32869974009.html) |
-| DHT11 | 1 | $1.50 | AliExpress | [Link](https://www.aliexpress.com/item/1005008818897051.html) |
-| MX Switches | 1 | $4.27 | AliExpress | [Link](https://www.aliexpress.com/item/1005006161274872.html) |
-| Keycaps | 2 | $3.60 | AliExpress | [Link](https://www.aliexpress.com/item/1005007482124353.html) |
-| 10k Resistor | 1 | $2.05 | AliExpress | [Link](https://www.aliexpress.com/item/1005004698981340.html) |
-| **Total** | | **$28.93** | Shipping: free | |
+| Part | Qty | Unit-Price | total | Shop | Link |
+| --- | --- | --- | --- | --- | --- |
+| XIAO ESP32 C3 | 1 | $11.33 | $11.33 | AliExpress | [Link](https://www.aliexpress.com/item/1005007084388623.html) |
+| 0.96" OLED | 1 | $2.57 | $2.57 | AliExpress | [Link](https://www.aliexpress.com/item/1005009170035050.html) |
+| MPU6050 | 1 | $3.61 | $3.61 | AliExpress | [Link](https://www.aliexpress.com/item/32869974009.html) |
+| DHT11 | 1 | $1.50 | $1.50 | AliExpress | [Link](https://www.aliexpress.com/item/1005008818897051.html) |
+| MX Switches | 1 | $4.27 | $4.27 | AliExpress | [Link](https://www.aliexpress.com/item/1005006161274872.html) |
+| Keycaps | 2 | $1.80 | $3.60 | AliExpress | [Link](https://www.aliexpress.com/item/1005007482124353.html) |
+| 10k Resistor | 1 | $2.05 | $2.05 | AliExpress | [Link](https://www.aliexpress.com/item/1005004698981340.html) |
+| (PCB manufacturing) | 5 | $4 | $4 | JLPCB | [Link](https://cart.jlcpcb.com/de/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
+| **Total** | **$28.93** | | Shipping: free | (Shipping for PCB: $8.78) | |
