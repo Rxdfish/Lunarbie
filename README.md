@@ -56,21 +56,13 @@ The BOM can be viewed in the [BOM.md](BOM.md) file
 embedded too: 
 Lunarbie – bill of materials
 
-Note
-
-This parts list is mirrored from Half Life. Editing it here will not change the platform's copy, and the next sync overwrites this file.
-Week	Tier	Parts funding
-Week 1	Tier 1	$30.00
-Part	What it's for	Qty	Unit	Total	Vendor
-XIAO ESP32 C3	main microchip	1	$5.00	$5.00	seeedstudio
-0.96 OLED	Display	1	$4.00	$4.00	CANADUINO
-MPU6050	motion sensor	1	$5.00	$5.00	amazon
-DHT11	Environment sensor	1	$2.00	$2.00	CANADUINO
-MX Switches	Switches	2	$1.75	$3.50	cherry-americas-llc
-Keycaps	Keycaps	2	$4.00	$8.00	adafruit-industries-llc
-10k Resistor	Resistor	1	$0.10	$0.10	Stackpole Electronics Inc
-Parts subtotal	—	—	—	$27.60	—
-Tax & shipping	—	—	—	$0.00	—
-Total	—	—	—	$27.60	—
-$2.40 left of the tier's funding.
+Item,Qty,Supplier,Cost/item,Total Cost,link
+XIAO ESP32 C3,1,seeedstudio,$11.33,$11.33,https://www.digikey.de/en/products/detail/seeed-technology-co-ltd/113991054/16652880
+0.96 OLED,1,CANADUINO,$2.57,$2.57,https://www.digikey.de/en/products/detail/universal-solder-electronics-ltd/26377/16822115
+MPU6050,1,amazon,$3.61,$3.61,https://www.amazon.com/cizihuu-1pcs-GY-521-MPU-6050Module/dp/B09LVDTSDL/ref=sr_1_7?sr=8-7
+DHT11,1,CANADUINO,$1.49,$1.49,https://www.digikey.de/en/products/detail/universal-solder-electronics-ltd/26085/16822119
+MX Switches,1,cherry-americas-llc,$4.26,$4.26,https://www.digikey.de/en/products/detail/cherry-americas-llc/MX2A-11NW/21738444
+Keycaps,2,adafruit-industries-llc,$1.80,$3.60,https://www.digikey.de/en/products/detail/adafruit-industries-llc/5039/14313478
+10k Resistor,1,Stackpole Electronics Inc,$2.05,$2.05,https://www.digikey.de/en/products/detail/stackpole-electronics-inc/CF14JT10K0/1741265
+Estimated total shipping,1,,,$0.00,
 
