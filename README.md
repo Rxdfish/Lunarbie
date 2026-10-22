@@ -52,3 +52,25 @@ The firmware is written in the ArduinoIDE and is contained in one singe .ino fil
 
 # BOM
 The BOM can be viewed in the [BOM.md](BOM.md) file 
+
+embedded too: 
+Lunarbie – bill of materials
+
+Note
+
+This parts list is mirrored from Half Life. Editing it here will not change the platform's copy, and the next sync overwrites this file.
+Week	Tier	Parts funding
+Week 1	Tier 1	$30.00
+Part	What it's for	Qty	Unit	Total	Vendor
+XIAO ESP32 C3	main microchip	1	$5.00	$5.00	seeedstudio
+0.96 OLED	Display	1	$4.00	$4.00	CANADUINO
+MPU6050	motion sensor	1	$5.00	$5.00	amazon
+DHT11	Environment sensor	1	$2.00	$2.00	CANADUINO
+MX Switches	Switches	2	$1.75	$3.50	cherry-americas-llc
+Keycaps	Keycaps	2	$4.00	$8.00	adafruit-industries-llc
+10k Resistor	Resistor	1	$0.10	$0.10	Stackpole Electronics Inc
+Parts subtotal	—	—	—	$27.60	—
+Tax & shipping	—	—	—	$0.00	—
+Total	—	—	—	$27.60	—
+$2.40 left of the tier's funding.
+
