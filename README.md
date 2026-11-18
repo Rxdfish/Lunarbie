@@ -14,6 +14,7 @@ The Board features a Microcontroller, display, motion sensor, and environmental 
 # Project status
 
 oct.00. The project is finished but it is still possible that some additions to this repo will be made, like CAD files or more features for the Lunarbie.
+
 nov.19. the parts are now ordered and there have been some final clean ups for the first PCB ordering which will follow next.
 
 # Detailed description
